@@ -26,7 +26,7 @@ We have ONE mainGid and NINE subGrids. We have rows and columns
             - Else if '1' is possible in more than 1 rows AND OR 1 columns of the subGrid (i,e if there are more than one vacancies for '1' in a subGrid))
                 AND if there are multiple such subgrids 
                     {
-                        then move onto the next number i.e '2' and repeat the process from step 1.  
+                        then move onto the next number i.e '2' and repeat the process from step 2.  
 
                     }
             - Else if '1' is NOT possible in more than 1 rows AND OR 1 columns of the mainGrid AND if there is ONLY ONE such subGrid 
